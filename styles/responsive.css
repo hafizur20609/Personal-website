@@ -4,6 +4,7 @@
     /* header part */
     
 header{
+    width:calc(100% - 40px);
     margin: 50px 0px;
  }
  nav ul{

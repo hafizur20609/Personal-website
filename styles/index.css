@@ -25,7 +25,7 @@ body{
 
 header{
    width: 1140px;
-   border: 1px solid black;
+   /* border: 1px solid black; */
    margin: 50px auto;
 }
 nav ul{
