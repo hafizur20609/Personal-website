@@ -9,13 +9,13 @@ header{
  }
  nav ul{
     justify-content:flex-start;
-    margin-left:50px;
+    margin-left:80px;
 }
 nav ul li {
-    margin-right: 10px;
+    margin-right: 20px;
 }
 nav ul li a {
-    font-size: 15px;
+    font-size: 18px;
 }
 
 /* banner part  */
@@ -28,18 +28,18 @@ nav ul li a {
 .banner_content_box h2{
     font-size: 60px;
     font-family: "Bebas Neue", serif;
-    margin-left:30px ;
+    margin-left:70px ;
 }
 .banner_content_box p{
     font-size: 15px;
-    margin-left:30px ;
+    margin-left:70px ;
 }
 .banner_content_box .banner_btn_box {
     margin-top:20px;
-    margin-left: 30px;
+    margin-left: 70px;
 }
 .banner_image_box img{
     width:250px;
-    margin-left: 19px;
+    margin-left: 70px;
 }
 }
